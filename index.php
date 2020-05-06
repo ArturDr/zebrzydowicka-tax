@@ -44,10 +44,10 @@
                 <div class="row justify-content-between">
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-5 col-5 ml-auto">
                         <ul>
-                            <li>Krzążki Przychodów i Rozchodów</li>
-                            <li>Ryczałt</li>
-                            <li>Kadry i Płace</li>
-                            <li>Rozliczenia z ZUS</li>
+                            <li>Księgi Przychodów i Rozchodów</li>
+                            <li>ryczałt</li>
+                            <li>kadry i płace</li>
+                            <li>rozliczenia z ZUS</li>
                             <li>BHP</li>
                             <li>rozliczenia roczne PIT</li>
                         </ul>
