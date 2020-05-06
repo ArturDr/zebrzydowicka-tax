@@ -72,10 +72,10 @@
                     </div>
                     <div class="row justify-content-center">
                         <div class="col-xl-8 col-lg-8 col-md-10 col-sm-10 col-12">
-                            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                            <p class="text-center">Zawodowo jestem związana z finansami od 1997 roku. W pierwszych latach swojej kariery byłam pracownikiem podmiotów państwowych (Urząd Skarbowy, ZUS), gdzie zajmowałam się m. in. podatkiem dochodowym od osób fizycznych, monitorowaniem zadłużenia oraz egzekucją składek. Od 2002 roku rozpoczęłam pracę jako specjalistka ds. kadr i płac oraz księgowa. Moje bogate doświadczenie zawodowe pozawala mi, szeroko spojrzeć na sprawy finansowe klienta.</p>
                         </div>
                         <div class="col-xl-8 col-lg-8 col-md-10 col-sm-10 col-12">
-                            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                            <p class="text-center">Firmę zebrzydowickaTAX żałożyłam w połowie 2016 roku. Stawiam na najwyższą jakość wykonywanych usług oraz terminowość działań. Oferuję szeroki zakres usług kadrowych i płacowych oraz pomoc przy założeniu i prowadzeniu działalności gospodarczej.</p>
                         </div>
                     </div>
                 </div>
