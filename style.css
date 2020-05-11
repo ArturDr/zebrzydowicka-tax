@@ -10,7 +10,7 @@
 
 #sec1 {
     height: 315px;
-    background: url('images1/background1.jpg') no-repeat center center fixed;
+    background: url('images/background1.jpg') no-repeat center center fixed;
 }
 
 #sec1 img {
@@ -33,7 +33,7 @@
 
 ul{
     list-style: none;
-    list-style-image: url('images1/listlogo.png');
+    list-style-image: url('images/listlogo.png');
 }
 
 #sec2 h2 {
@@ -52,7 +52,7 @@ ul{
 
 #sec3 {
     height: auto;
-    background: url('images1/background2.jpg') no-repeat center center fixed;
+    background: url('images/background2.jpg') no-repeat center center fixed;
 }
 
 #sec3 h1 {
