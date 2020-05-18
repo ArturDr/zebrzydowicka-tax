@@ -17,7 +17,7 @@
     <body>
         <!-- nav-->
         <nav class="navbar navbar-expand-lg navbar-dark sticky-top" id="navibar">
-            <a class="navbar-brand " href="#"><img src="images/logo.png" height="35" width="35" class="d-inline-block"></a>
+            <a class="navbar-brand " href="#"><alt src="images/logo.png" height="35" width="35" class="d-inline-block"></alt>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -35,7 +35,7 @@
         <section id="sec1">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-12 col-md-10 col-lg-10 col-xl-8"> <img src="images/zebrzydowickaTAX2.png" height="105" width="876" class="img-fluid"></div>
+                    <div class="col-12 col-md-10 col-lg-10 col-xl-8"> <alt src="images/zebrzydowickaTAX2.png" height="105" width="876" class="img-fluid"></div>
                 </div>
             </div>
         </section>
