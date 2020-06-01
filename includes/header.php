@@ -35,7 +35,7 @@
         <section id="sec1">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-12 col-md-10 col-lg-10 col-xl-8"> <alt src="images/zebrzydowickaTAX2.png" height="105" width="876" class="img-fluid"></div>
+                    <div class="col-12 col-md-10 col-lg-10 col-xl-8"> <img src="images/zebrzydowickaTAX2.png" height="105" width="876" class="img-fluid"></div>
                 </div>
             </div>
         </section>
